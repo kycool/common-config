@@ -1,6 +1,6 @@
 vi file in ~/.npmrc
 
-这里使用了淘宝镜像
+这里使用了淘宝镜像，添加以下内容到文件中
 
 ```
 registry=https://registry.npm.taobao.org
